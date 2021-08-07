@@ -1,0 +1,6 @@
+id=hires-redmi
+name=HiResAudio Redmi
+version=1.0
+versionCode=100
+author=Xenoxis
+description=Enable High Resolution Audio (24 bits @ 192 kHz) on Redmi/Xiaomi's phones
