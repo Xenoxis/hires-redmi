@@ -1,6 +1,7 @@
 # HiRes Audio Configuration (for Redmi devices)
 
 1. How this works ?
+
 This magisk module allows you to enchance your device quality by changing somes parameters in your configuration files.
 It setting up your DAC up to 24 bits floats at a sample rate of 192 kHz on LINE-OUT and HEADPHONE/HEADSET outputs, which is a recommanded settings for
 listening HiRes files and "enchancing" quality from others ones (instead of the default 16 bits in integer numbers at 48 kHz).
@@ -8,6 +9,7 @@ listening HiRes files and "enchancing" quality from others ones (instead of the 
 **Please notice that this mod has been specifically designed to run on recents Redmi/Xiaomi's devices, but it should run on more devices than just Redmi's ones, but no tests has been done to prove this.**
 
 2. Devices Tested
+
 ..* Redmi Note 9 Pro Global (Android 10 & 11)
 
 3. About
